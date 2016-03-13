@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Ahoy!!!"
+date:   2016-02-29 14:17:58 -0500
+categories: news
+---
+Ohai :)
+
+Things are just getting started around here. As such, for the time being, this will more than likely just mirror information from pirate party voices in the New England area and abroad.
+
+If you would like to participate in the wrangling of this endeavor's beginnings you can introduce yourself by the various means below...
+
+* IRC: #{{site.freenode_channel}} on freenode
+* Twitter: @{{site.twitter_username}}
+
+Checkout our <a href="/contribute/">contribute</a> page for our basics.

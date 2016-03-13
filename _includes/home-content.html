@@ -1,0 +1,38 @@
+<div class="home-content">
+  <div class="home-content__inner">
+    <div class="intro">
+      {{site.description}}
+    </div>
+    <!-- spotlight-panel -->
+    <div class="spotlight-panel">
+      <div class="spotlight-panel__inner">
+        {% for post in site.posts %}
+          {% if post.categories contains 'spotlight' %}
+            <div class="spotlight-panel__option">
+              <div class="spotlight-panel__content">
+                <div class="tr">
+                  <a href="{{ post.permalink | prepend: site.baseurl }}" class="spotlight-panel__content--inner">
+                    {{post.title}}
+                  </a>
+                </div>
+              </div>
+            </div>
+          {% endif %}
+        {% endfor %}
+      </div>
+    </div>
+    <!-- /spotlight-panel -->
+
+    {% for post in site.posts %}
+      {% if post.categories contains 'story' %}
+        <!-- story-panel -->
+        <div class="story-panel">
+          <h2>{{post.title}}</h2>
+          {{post.content}}
+        </div>
+        <!-- /story-panel -->
+      {% endif %}
+    {% endfor %}
+
+  </div>
+</div>
