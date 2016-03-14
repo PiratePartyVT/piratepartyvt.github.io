@@ -2,6 +2,7 @@
 This is the Pirate Party Vermont's first step. If you'd like to help take others please contribute. If you would like to contribute to this site please start by making your own fork. Please don't push straight to master.
 
 freenode: #piratepartyvt
+
 twitter: https://twitter.com/piratepartyvt
 
 ####Basics of contributing
