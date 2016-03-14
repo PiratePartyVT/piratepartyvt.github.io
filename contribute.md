@@ -7,14 +7,14 @@ permalink: /contribute/
 <div class="col-xs-12 col-sm-8">
   <h4>Developers</h4>
   <p>
-  If you would like to contribute to this site please start by making your own branch. Please don't push straight to master.
+  If you would like to contribute to this site please start by making your own fork. Please don't push straight to master.
   </p>
   <p>
   <h4>Basics of contributing</h4>
   New to github? You may want to start with their own <a href="https://help.github.com/desktop/guides/getting-started/" target="_blank">GitHub Desktop</a>.<br/>
   <br/>
   This site was built with <a href="https://jekyllrb.com/" target="_blanl">Jekyll</a>.<br/>
-  Jekyll is a simple, blog-aware, static site generator. We use it to create templates for this site. If Jekyll is new to you read about it <a href="http://jekyllrb.com/" target="_blank">here</a>.
+  Jekyll is a simple, blog-aware, static site generator. We use it to create templates and content for this site. If Jekyll is new to you read about it <a href="http://jekyllrb.com/" target="_blank">here</a>.
 <br/>
   </p>
   <hr/>
