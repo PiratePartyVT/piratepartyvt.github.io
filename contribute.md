@@ -32,5 +32,5 @@ permalink: /contribute/
   {% if site.twitter_username %}
     {% include icon-twitter.html username=site.twitter_username %}<br/>
   {% endif %}
-  <span class="glyphicon glyphicon-comment" title="Freenode IRC"></span> #{{site.freenode_channel}} on freenode<br/>
+  <span class="glyphicon glyphicon-comment"></span><a href="https://webchat.pirateirc.net/?nick=&channels=piratepartyvt" title="Pirateirc IRC" target="_blank"> #{{site.pirateirc_channel}} on pirateirc</a><br/>
 </div>

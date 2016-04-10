@@ -4,13 +4,12 @@ title:  "Ahoy!!!"
 date:   2016-02-29 14:17:58 -0500
 categories: news
 ---
-Ohai :)
 
-Things are just getting started around here. As such, for the time being, this will more than likely just mirror information from pirate party voices in the New England area and abroad.
+Things are just getting started around here. As such, for the time being, this will more than likely just mirror information from Pirate Party voices in the New England area and abroad.
 
-If you would like to participate in the wrangling of this endeavor's beginnings you can introduce yourself by the various means below...
+As of this moment Pirate Party Vermont has no established roles or positions and is mainly focused on grassroots awareness and the basics of formation and organization. Currently we are using github for services however there are already steps in motion to either expand or altogether change this. We'll see as time goes on. If you would like to participate in the wrangling of this endeavor's beginnings you can introduce yourself by the various means below...
 
-* IRC: #{{site.freenode_channel}} on freenode
+* IRC: <a href="https://webchat.pirateirc.net/?nick=&channels=piratepartyvt" title="Pirateirc IRC" target="_blank"> #{{site.pirateirc_channel}} on pirateirc</a>
 * Twitter: @{{site.twitter_username}}
 
-Checkout our <a href="/contribute/">contribute</a> page for our basics.
+If you are a developer, or would like to take on related tasks in whatever form, please checkout our <a href="/contribute/">contribute</a> page for our basics.
