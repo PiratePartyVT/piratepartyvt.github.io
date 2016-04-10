@@ -11,6 +11,7 @@ Join us in IRC or, if no one is there, just DM via Twitter in order to chime in.
 
 * PPVT communication basics
 * PPVT structure
+* PPVT registration with the state of Vermont
 * Growing the Pirate Party in Vermont
 
 The goal isn't necessarily to fully cover these topics but to have initial discussion and then plan further meetings which will allow us to go in depth in an organized and structured fashion. Join us!
